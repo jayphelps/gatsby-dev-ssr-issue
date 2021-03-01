@@ -1,0 +1,18 @@
+{
+  "name": "gatsby-dev-ssr-issue",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "develop": "gatsby develop",
+    "start": "gatsby develop",
+    "build": "gatsby build",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean"
+  },
+  "dependencies": {
+    "@jayphelps/fake-package-for-gatsby-dev-ssr-issue": "^0.0.1",
+    "gatsby": "^2.32.8",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  }
+}
